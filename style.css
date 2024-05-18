@@ -1,0 +1,48 @@
+#body{
+    display: grid;
+    position: absolute;
+    
+}
+
+
+.message{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    /* background-color:silver; */
+    background: linear-gradient( #00FFFF,#7B68EE,#7B68EE,#6495ED)
+}
+.any{
+    border: 1px solid black;
+    width: 200px;
+    height:60px ;
+    margin-top: 4px;
+    background-color: aliceblue;
+   
+}
+.none{
+    border: 1px solid black;
+    width: 150px;
+    height:60px ;
+    margin-top: 4px;
+    align-content: center;
+    background-color: aliceblue;
+
+}
+.app{
+    border: 1px solid black;
+    width: 300px;
+    height:200px ;
+    margin-top: 4px;
+    background-color: silver;
+
+}
+.non{
+    border: 1px solid black;
+    width: 270px;
+    height:120px ;
+    margin-top: 6px;
+    align-content: center;
+    background-color: aliceblue;
+
+}
